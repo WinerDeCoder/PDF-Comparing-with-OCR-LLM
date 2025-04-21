@@ -1,0 +1,9 @@
+fastapi
+pydantic
+requests
+python-dotenv
+uvicorn
+mistralai
+python-multipart
+openai
+aiofiles
